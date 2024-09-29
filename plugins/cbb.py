@@ -14,9 +14,9 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 <b>
   🫧ᴏᴡɴᴇʀ: <a href='tg://user?id={OWNER_ID}'>Ｓａｔｕｒｏ</a><br>
   ○ Channel: <a href='https://t.me/OnAnimeSeries'>ᴏɴ ᴀɴɪᴍᴇꜱᴇʀɪᴇꜱ</a><br>
-  ○ 🇴🇺🇷 🇳🇪🇹🇼🇴🇷🇰 ⦂ <a href='https://t.me/OnAnimeSeries_Network'>ᴀɴɪᴍᴇꜱᴇʀɪᴇꜱ ɴᴇᴛᴡᴏʀᴋ</a><br>
+  ○ ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ ⦂ <a href='https://t.me/OnAnimeSeries_Network'>ᴀɴɪᴍᴇꜱᴇʀɪᴇꜱ ɴᴇᴛᴡᴏʀᴋ</a><br>
   ○ ᴀɴɪᴍᴇ ᴄʜᴀᴛ ⦂ <a href='https://t.me/OnAnimeseriesUniverse'>𝙰𝚗𝚒𝚖𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚎</a><br>
-  ○ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href='https://t.me/OnAnimeseries_Support'>​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​</a><br>
+  ○ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href='https://t.me/OnAnimeseriesSupport'>​ꜱᴜᴘᴘᴏʀᴛ</a><br>
 </b>
 """,
             disable_web_page_preview=True,
